@@ -1,10 +1,11 @@
 {
-  "name": "silicon-html",
+  "name": "second-wind",
   "version": "1.0.0",
-  "description": "sample ad agency site",
+  "description": "Second Wind Rehabilitation",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
   },
   "author": "gary liggins",
   "license": "liggins development",
